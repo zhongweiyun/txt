@@ -39,4 +39,7 @@
 				获取数组元素数量：		
 
 									格式：数组名.length
-									范例：arr.length				
+									范例：arr.length	
+
+
+									//测试github是否可以更新			
