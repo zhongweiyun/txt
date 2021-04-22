@@ -1,0 +1,10 @@
+1.java语言发展史
+
+2.Java语言跨平台原理
+
+3.JRE和JDK
+	
+		jre 是java程序的运行环境
+		jdk 是java环境开发包
+
+4、JDK的下载和安装		

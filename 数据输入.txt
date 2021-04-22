@@ -1,0 +1,15 @@
+1.Scanner使用的基本步骤
+	
+	①导包 
+			import java.util.Scanner;
+			导包的动作必须出现在类定义的上边
+	②创建对象
+			Scanner sc = new Scanner(System.in);
+	
+	③接受数据
+			int	i = sc.nextInt();	
+
+
+x的n次方
+
+	math.pow(x,n)					
